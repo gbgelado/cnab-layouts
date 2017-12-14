@@ -3,6 +3,7 @@
     "description": "Isso é um fork de https://github.com/glauberportella/cnab-layouts",
     "type": "library",
     "license": "MIT",
+    "version": "0.1",
     "authors": [
         {
             "name": "Gabriel Gelado",
