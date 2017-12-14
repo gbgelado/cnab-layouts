@@ -11,6 +11,5 @@
             "email": "gelado@outlook.com"
         }
     ],
-    "minimum-stability": "stable",
     "require": {}
 }
