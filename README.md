@@ -1,3 +1,5 @@
+Isso é um fork de [https://github.com/glauberportella/cnab-layouts](https://github.com/glauberportella/cnab-layouts)
+
 # CNAB LAYOUTS
 
 Layouts de arquivos de intercâmbio bancário em formato YAML.
