@@ -226,7 +226,7 @@ remessa:
     zeros_01:
       pos: [42,59]
       picture: '9(18)'
-      default: 0
+      default: '0'
     brancos_02:
       pos: [60,230]
       picture: 'X(171)'
