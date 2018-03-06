@@ -3,7 +3,7 @@
 	"description": "Isso é um fork de https://github.com/glauberportella/cnab-layouts",
 	"type": "project",
 	"license": "MIT",
-	"version": "0.2.3",
+	"version": "0.2.4",
 	"minimum-stability": "stable",
 	"authors": [
 		{
